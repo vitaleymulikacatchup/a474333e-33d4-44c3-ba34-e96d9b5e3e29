@@ -191,7 +191,7 @@ export default function Home() {
           tagIcon={MapPin}
           title="Plan Your Museum Visit"
           description="Stay updated with our latest exhibitions, events, and special programs. Subscribe to our newsletter for exclusive access."
-          imageSrc="https://images.pexels.com/photos/34365824/pexels-photo-34365824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/tmp/museum-realistic-with-lots-of-people-1761425278233-6a4ba793.jpg"
           imageAlt="Museum entrance hall"
           mediaPosition="right"
           inputPlaceholder="Enter your email address"
