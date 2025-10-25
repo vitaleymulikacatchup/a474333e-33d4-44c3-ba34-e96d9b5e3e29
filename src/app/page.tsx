@@ -31,7 +31,7 @@ export default function Home() {
       <div id="hero" data-section="hero">
         <HeroSplit
           title="Discover Kolkata's Rich Cultural Heritage"
-          description="Explore centuries of art, history, and culture at one of India's most prestigious museums. From ancient artifacts to contemporary exhibitions."
+          description="Discover centuries of art, history, and culture at one of India's most esteemed museums. Journey through ancient artifacts to vibrant contemporary exhibitions and everything in between."
           tag="Cultural Heritage"
           imageSrc="https://images.pexels.com/photos/2846216/pexels-photo-2846216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Kolkata Museum heritage building"
