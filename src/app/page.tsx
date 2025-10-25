@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { Award, Brush, Crown, Gem, HelpCircle, MapPin, Museum, Palette, Scroll, Star } from "lucide-react";
 import { ThemeProvider } from "@/providers/ThemeProvider";
@@ -138,7 +138,7 @@ export default function Home() {
             "https://images.pexels.com/photos/15483696/pexels-photo-15483696.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/2559025/pexels-photo-2559025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "https://images.pexels.com/photos/4428293/pexels-photo-4428293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
@@ -181,7 +181,7 @@ export default function Home() {
               title: "Do you have a gift shop?",
               content: "Yes, we have a museum shop with books, replicas of artifacts, postcards, and other cultural items."
             }
-          ]
+          ]}
           animationType="smooth"
         />
       </div>
