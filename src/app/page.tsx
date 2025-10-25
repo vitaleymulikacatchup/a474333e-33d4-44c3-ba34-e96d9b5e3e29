@@ -1,6 +1,6 @@
 "use client";
 
-import { Award, Brush, Crown, Gem, HelpCircle, MapPin, Museum, Palette, Scroll, Star } from "lucide-react";
+import { Award, Brush, Crown, Gem, HelpCircle, MapPin, Palette, Scroll, Star } from "lucide-react";
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
 import HeroSplit from '@/components/sections/hero/HeroSplit';
@@ -33,7 +33,6 @@ export default function Home() {
           title="Discover Kolkata's Rich Cultural Heritage"
           description="Explore centuries of art, history, and culture at one of India's most prestigious museums. From ancient artifacts to contemporary exhibitions."
           tag="Cultural Heritage"
-          tagIcon={Museum}
           imageSrc="https://images.pexels.com/photos/2846216/pexels-photo-2846216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Kolkata Museum heritage building"
           imagePosition="right"
